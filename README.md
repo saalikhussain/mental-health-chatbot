@@ -1,1 +1,2 @@
 # mental-health-chatbot
+This project utilizes Google Gemini 2.0 Flash and LangChain to develop a culturally sensitive mental health chatbot tailored for Pakistani users. Featuring a Gradio interface, it supports dual memory for conversation history, ensures strict focus on mental health topics, and responds in English, Urdu, or Roman Urdu, while providing Pakistan-specific mental health resources.
